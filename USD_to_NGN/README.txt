@@ -6,11 +6,10 @@ Write a program that converts an amount in US Dollars (USD) to Nigerian
 Naira (NGN), given the current exchange rate entered by the user.
 
 HOW TO OPEN AND RUN
-1. Extract the ZIP using Extract All. Do not open the project inside the ZIP.
-2. Open USDToNGN.vbp in Microsoft Visual Basic 6.0.
-3. Press F5 or select Run > Start.
-4. Enter the amount in USD and the exchange rate in NGN per 1 USD.
-5. Click Calculate (or press Enter).
+1. Open USDToNGN.vbp in Microsoft Visual Basic 6.0.
+2. Press F5 or select Run > Start.
+3. Enter the amount in USD and the exchange rate in NGN per 1 USD.
+4. Click Calculate (or press Enter).
 
 Example (illustrative rate, not a live rate):
 Amount: 10
