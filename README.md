@@ -1,5 +1,9 @@
 # CIT 104 Visual Basic 6.0 Practical Projects
 
+![Visual Basic](https://img.shields.io/badge/Language-Visual%20Basic-blue)
+![Net Framework](https://img.shields.io/badge/.NET-Framework-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 **National Open University of Nigeria (NOUN) · 2026**
 
 This repository contains four Visual Basic 6.0 practical projects for CIT 104. Each project includes its source code, editable form, compiled executable, form-design screenshot, and practical report.
