@@ -6,11 +6,11 @@ given the principal, rate, and time (years).
 Formula: SI = (Principal * Rate * Time) / 100.
 
 OPEN AND RUN
-1. Extract the ZIP using Extract All.
-2. Open SimpleInterest.vbp in Microsoft Visual Basic 6.0.
-3. Press F5 or choose Run > Start.
-4. Enter principal, annual percentage rate, and time in years.
-5. Click Calculate or press Enter.
+1. Open SimpleInterest.vbp in Microsoft Visual Basic 6.0.
+2. Press F5 or choose Run > Start.
+3. Enter principal, annual percentage rate, and time in years.
+4. Click Calculate or press Enter.
+5. You can also use the .exe file to run the application
 
 Enter 10 for a 10 percent annual rate, not 0.10 or 10%.
 Enter 0.5 years for six months. Decimal values are accepted.
@@ -37,8 +37,6 @@ FILES
 SimpleInterest.vbp - project file to open.
 frmSimpleInterest.frm - editable form layout and all calculation code.
 Form_Design.png - visual form reference.
-Question_2_Simple_Interest_Logbook.docx - first-person logbook entry.
-README.txt - these instructions.
 
 Uses built-in VB6 controls; no external OCX, FRX resources, or internet needed.
 Project references, control names, event structure, sample arithmetic, and ZIP
