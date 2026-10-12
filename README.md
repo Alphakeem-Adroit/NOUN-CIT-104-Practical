@@ -145,3 +145,15 @@ To check the applications locally, use the examples in each question, try decima
 ## Academic Context
 
 These projects document the **2026 CIT 104 practical exercises** at the **National Open University of Nigeria**. The source files and reports provide a record of the calculations, interface design, and implementation for each question.
+
+## Student Information
+
+| Detail | Information |
+| --- | --- |
+| Student Name | Busari Akeem Tunde |
+| Level | 300 Level |
+| Programme | B.Sc. Information Technology |
+| Faculty | Faculty of Computing |
+| University | National Open University of Nigeria (NOUN) |
+| Course Code | CIT 104 |
+| Year | 2026 |
